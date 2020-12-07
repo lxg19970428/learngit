@@ -1,3 +1,7 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-switch to a new branch 'Featurel'
+<<<<<<< HEAD
+Creating to a new branch 'featurel'
+=======
+Creating a new branch 'featurel'
+>>>>>>> dev
